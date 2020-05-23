@@ -1,0 +1,12 @@
+@import 'components/fonts';
+@import 'components/header';
+@import 'components/footer';
+@import 'pages/home';
+@import 'pages/about';
+@import 'pages/services';
+@import 'pages/sermons';
+@import 'pages/contact';
+
+body {
+    font-family: $font;
+}
